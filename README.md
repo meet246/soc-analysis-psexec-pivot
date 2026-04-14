@@ -5,6 +5,7 @@ Technical analysis and mitigation strategy for a PSEXEC lateral movement alert, 
 
 ## Lab Context
 **Platform:** ReliaQuest Grey Matter (Simulation)
+
 **Scenario:** Blind Investigation & Root Cause Analysis. Tasked with identifying the entry point and full attack path of a PSEXEC pivoting alert using the Grey Matter platform.
 
 ## Executive Summary
